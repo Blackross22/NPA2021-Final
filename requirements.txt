@@ -1,4 +1,9 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
 future==0.18.2
+idna==3.3
 ntc-templates==3.0.0
+requests==2.27.1
 six==1.16.0
 textfsm==1.1.2
+urllib3==1.26.9
