@@ -1,0 +1,4 @@
+future==0.18.2
+ntc-templates==3.0.0
+six==1.16.0
+textfsm==1.1.2
